@@ -1,0 +1,15 @@
+/* src/components/UploadVideo.css */
+
+.upload-video {
+    text-align: center;
+  }
+  
+  .upload-video input[type="file"] {
+    margin: 20px 0;
+  }
+  
+  .upload-video button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  

@@ -1,0 +1,70 @@
+/* src/components/AnalysisResult.css */
+
+.json-output {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    overflow-x: auto;
+    font-family: monospace;
+    font-size: 0.9rem;
+  }
+  
+  h2,
+  h3,
+  h4,
+  h5 {
+    color: #002147; /* Navy blue */
+  }
+  
+  .card-title {
+    color: #002147;
+  }
+  
+  .frame-title {
+    font-size: 1rem;
+  }
+  
+  .frame-text {
+    font-size: 0.85rem;
+  }
+  
+  .btn-primary {
+    background-color: #002147;
+    border-color: #002147;
+  }
+  
+  .btn-primary:hover {
+    background-color: #001533;
+    border-color: #001533;
+  }
+  
+  .list-group-item {
+    border: none;
+  }
+  
+  .significant-frame-img {
+    height: 250px;
+    object-fit: contain;
+    background-color: #fff;
+  }
+  
+  .video-player-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .mt-5 {
+    margin-top: 3rem !important;
+  }
+  
+  .mb-4 {
+    margin-bottom: 1.5rem !important;
+  }
+  
+  .alert-info {
+    background-color: #e9ecef;
+    border-color: #ced4da;
+    color: #495057;
+  }
+  
